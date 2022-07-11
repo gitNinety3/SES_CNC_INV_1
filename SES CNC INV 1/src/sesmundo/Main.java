@@ -21,5 +21,4 @@ public class Main {
 	      System.out.println(myCustomer + "\n\n\t by Isaac Sesmundo");
 
 	}
-
 }
